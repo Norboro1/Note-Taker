@@ -16,7 +16,8 @@
   No installation required, simply visit the deployed app at [https://murmuring-plateau-85919.herokuapp.com/]
 
   ## Usage
-  Upon visiting the page you will be greeted with the home screen. To access the notes page just press "Get started". You will find saved notes on the left and a large area on the right to view saved notes, or write a new one! press '+' in the top right corner to enter a new note, and when you're done simply hit the save icon, directly to the left of the '+'. 
+  Upon visiting the page you will be greeted with the home screen. To access the notes page just press "Get started". You will find saved notes on the left and a large area on the right to view saved notes, or write a new     one! press '+' in the top right corner to enter a new note, and when you're done simply hit the save icon, directly to the left of the '+'. 
+  ![image](https://github.com/Norboro1/Note-Taker/assets/116109240/b13e19d8-18db-4d51-9082-dedb3d728bca)
 
   ## License
   This project is licensed under the MIT license.
